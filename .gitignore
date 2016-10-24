@@ -1,0 +1,8 @@
+*.pyc
+*~
+MANIFEST
+build
+dist
+docs/_build
+pgdbconn.egg-info
+.cache
