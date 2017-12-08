@@ -22,7 +22,7 @@ Features
 Requirements
 ------------
 
-- `Postgres <http://www.postgresql.org/>`_  9.2 or higher
+- `Postgres <http://www.postgresql.org/>`_  9.3 or higher
 
 - `Python <http://www.python.org/>`_  2.7, or 3.4 or higher
 
