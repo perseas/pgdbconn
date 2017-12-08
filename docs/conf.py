@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PgDbConn'
-copyright = '2010-2016, Joe Abbate'
+copyright = '2010-2017, Joe Abbate'
 author = 'Joe Abbate'
 
 # The version info for the project you're documenting, acts as replacement for

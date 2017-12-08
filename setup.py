@@ -24,7 +24,7 @@ class PyTest(TestCommand):
 
 setup(
     name='pgdbconn',
-    version='0.8.dev0',
+    version='0.8.0',
     packages=['pgdbconn'],
     install_requires=['psycopg2 >= 2.5'],
     tests_require=['pytest'],
